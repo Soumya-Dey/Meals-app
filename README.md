@@ -1,6 +1,10 @@
-# meals_app
+# Meals_app [DeliMeals]
 
-A new Flutter project.
+A simple recipe app with dark mode made with flutter for viewing recipes of various meals. You can also filter the meals and add them to favorites.
+
+## Screenshots
+
+<img src="sc1.png" width="256">&nbsp;   &nbsp;   &nbsp;  <img src="sc2.png" width="256">   &nbsp;   &nbsp;   <img src="sc3.png" width="256">   &nbsp;   &nbsp;   <img src="sc4.png" width="256">
 
 ## Getting Started
 
