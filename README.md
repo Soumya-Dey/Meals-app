@@ -4,7 +4,7 @@ A simple recipe app with dark mode made with flutter for viewing recipes of vari
 
 ## Screenshots
 
-<img src="sc1.png" width="256">&nbsp;   &nbsp;   &nbsp;  <img src="sc2.png" width="256">   &nbsp;   &nbsp;   <img src="sc3.png" width="256">   &nbsp;   &nbsp;   <img src="sc5.png" width="256">   &nbsp;   &nbsp;   <img src="sc4.png" width="256">
+<img src="sc1.png" width="256">&nbsp;   &nbsp;   &nbsp;  <img src="sc2.png" width="256">   &nbsp;   &nbsp;   <img src="sc3.png" width="256">   &nbsp;   &nbsp;   <img src="sc6.png" width="256">   &nbsp;   &nbsp;   <img src="sc5.png" width="256">   &nbsp;   &nbsp;   <img src="sc4.png" width="256">
 
 ## Getting Started
 
