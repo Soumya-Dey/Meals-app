@@ -45,6 +45,7 @@ class FavoritesScreen extends StatelessWidget {
                 duration: favoriteMeals[index].duration,
                 affordability: favoriteMeals[index].affordability,
                 complexity: favoriteMeals[index].complexity,
+                imageHeight: 120,
               );
             },
             itemCount: favoriteMeals.length,
