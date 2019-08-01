@@ -89,7 +89,7 @@ class MealItem extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                  bottom: imageHeight / 6,
+                  bottom: imageHeight / 7,
                   right: 0,
                   child: Container(
                     width: 300,
@@ -101,7 +101,7 @@ class MealItem extends StatelessWidget {
                     child: Text(
                       title,
                       style: TextStyle(
-                        fontSize: 24,
+                        fontSize: imageHeight < 200 ? 20 : 24,
                         color: Colors.white,
                       ),
                       softWrap: true,
